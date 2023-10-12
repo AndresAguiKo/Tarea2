@@ -91,3 +91,18 @@ while (true) {
 }
 
 if (contador > 0) // me falta terminar este ejercico porque estoy inverstigando de la media. 
+
+
+
+
+//Ejercicio #1 Determinar si un número es primo o no. El número digitado deberá estar entre 0 y 100. Si es primo indicará en consola “El número digitado es un número Primo”. Si no  saldrá “El número digitado no es un número primo”
+
+
+var numero = parseInt(prompt("Introduce un número entre 0 y 100:"));
+
+if (numero >= 0 && numero <= 100) {
+  if (numero <= 1) {
+    console.log("El número ingresado no es un número primo.");
+  } else if (numero === 2) {
+    console.log("El número ingresado es un número primo.");
+  } else {
