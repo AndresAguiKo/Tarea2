@@ -93,7 +93,11 @@ while (true) {
 if (contador > 0) // me falta terminar este ejercico porque estoy inverstigando de la media. 
 
 
+////////////
+////////////
 
+
+ //Ciclos Do While 
 
 //Ejercicio #1 Determinar si un número es primo o no. El número digitado deberá estar entre 0 y 100. Si es primo indicará en consola “El número digitado es un número Primo”. Si no  saldrá “El número digitado no es un número primo”
 
