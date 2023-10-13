@@ -110,3 +110,4 @@ if (numero >= 0 && numero <= 100) {
   } else if (numero === 2) {
     console.log("El número ingresado es un número primo.");
   } else {
+    var Primo = true;       
